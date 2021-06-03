@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scripture baptism and church-way with true-seekers.</title>
+         </titleStmt>
+         <extent>Approx. 41KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92758</idno><idno type="EEBO-CITATION">99866827</idno>
+  <idno type="VID">168590</idno>
+  <idno type="EEBO-PROQUEST">2240954061</idno>
+  
+            <idno type="STC">Wing S2113</idno>
+            <idno type="STC">Thomason E984_5</idno>
+            <idno type="STC">ESTC R207798</idno>
+            <idno type="PROQUEST">99866827</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866827e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92758)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168590)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E984[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scripture baptism and church-way with true-seekers.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "May. 27 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:168590:1"/>
+            <head>SCRIPTURE BAPTISM AND CHURCH-WAY WITH True-Seekers.</head>
+            <p>
+               <seg rend="decorInit">P</seg>Rove all things, <hi>&amp;c.</hi> 1 <hi>Thes.</hi> 5.21.</p>
+            <p>Try the Spirits, 1 <hi>John</hi> 4.1.</p>
+            <p>Be not deceived, 1 <hi>Cor.</hi> 6.9.</p>
+            <p>Having their wits exercised to discern both good and evill, <hi>Heb.</hi> 5.14.</p>
+            <p>
+               <hi>Baptismus Flaminis, Fluminis, Sanguinis.</hi>
+            </p>
+            <p>
+               <hi>Aqua non attingit mentem.</hi>
+            </p>
+            <p>1 <hi>Pet.</hi> 3.21. Even Baptism, doth also now save us (not the putting away the filth of the flesh, but the answer of a good conscience towards God) by the Resurrection of Jesus Christ.</p>
+            <p>1 <hi>Cor.</hi> 7.19. Circumcision is nothing, and uncircumcisi<g ref="char:EOLhyphen"/>on is nothing, but the keeping the Commandements of God.</p>
+            <p>Baptisme is commanded in the name of the Father, and of the Son, and of the Holy Ghost, <hi>Mat.</hi> 28 19.</p>
+            <p>
+               <hi>Naaman</hi> washed seven times, 2 <hi>Kings</hi> 5.14. That is hee dipped himself seven times; dowsed, drenched, dip and wash are words used, speaking of believers baptizing (after his manner) by <hi>Hermes Trismegistus, pag.</hi> 161. 163.</p>
+            <p>Q. <hi>Who are to be baptized?</hi>
+            </p>
+            <p>
+               <hi>Mark.</hi> 16.16. He that believeth and is baptized, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:168590:2"/>
+            <p>
+               <hi>Acts</hi> 8.37. If believe with all thy heart may be bap<g ref="char:EOLhyphen"/>tized. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, That is, it is lawfull.</p>
+            <p>
+               <hi>Acts</hi> 2.28. Repent and be baptized.</p>
+            <p>
+               <hi>Acts</hi> 2.41. They that received the Word gladly, were baptized.</p>
+            <p>
+               <hi>Acts</hi> 10.47. If they had received the Holy Ghost they might be baptized.</p>
+            <p>
+               <hi>Math.</hi> 3.6. Confessing their sins they were baptized. <hi>Vers.</hi> 8. Bringing forth fruits meet for Repentance.</p>
+            <p>
+               <hi>Matth.</hi> 28.19. Being made Christs Disciples by teach<g ref="char:EOLhyphen"/>ing, they were baptized.</p>
+            <p>Q. <hi>What is Baptisme?</hi>
+            </p>
+            <p>
+               <hi>Mat.</hi> 3.6. They were baptized of him in <hi>Jordan, ver.</hi> 13. Then came Jesus from <hi>Galilee</hi> to <hi>Jordan</hi> unto <hi>John</hi> to bee baptized of him. (<hi>Jordan</hi> not the town, but the river) Christ submitted himself to the Ordinance of Baptisme, <hi>ver.</hi> 16. and when he was baptized came straight out of the water, the River, see <hi>Mark.</hi> 1.5. All were baptized of him in the River <hi>Jordan</hi> (all in, <hi>Ergo) ver.</hi> 9.10. Jesus was baptized or <hi>John</hi> in <hi>Jordan,</hi> and as soon as he came out of the water, <hi>John</hi> saw the Heavens opened, <hi>&amp;c.</hi> The holy Trinity ap<g ref="char:EOLhyphen"/>peared, <hi>Ite ad Jordanum &amp; ibi vid bitis.</hi>
+            </p>
+            <p>
+               <hi>John.</hi> 3.23. <hi>John</hi> was baptizing in <hi>Aenon</hi> because there was much water there. (more then a little, as if that not sufficient. <hi>Frustra fit per plura quod sieri potest per pauciora.</hi>)</p>
+            <p>
+               <hi>Act</hi> 16.13, 14, 15. Baptized <hi>Lydia</hi> was converted by the River de, <hi>Act.</hi> 8.36, 37, 38. <hi>Philip</hi> and the <hi>Eunuch</hi> (the baptiser, and the baptised) they went down both into the water, and baptised him, That is, there, in the water, <hi>ver.</hi> 39. and as soon as they were come up out of the water, <hi>&amp;c, Rom.</hi> 6.4. We are buried with him by Baptisme in<g ref="char:EOLhyphen"/>to his death.</p>
+            <p>Baptisme represents Buriall and Resurrection.</p>
+            <p>
+               <hi>Col</hi> 2.12. Buried with him through baptisme, wherein also you are risen with him, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:168590:2"/>
+            <p>
+               <hi>Quest.</hi> The baptisme of <hi>John</hi> whence was it, from Hea<g ref="char:EOLhyphen"/>ven, or of men? <hi>Mat.</hi> 21.25.</p>
+            <p>
+               <hi>Answ.</hi> He that believeth and is baptised shall be saved, <hi>Mark.</hi> 16.16.</p>
+            <p>Believers may be saved without Baptisme no doubt, yet true believers will be universally obedient being rightly in<g ref="char:EOLhyphen"/>formed.</p>
+            <p>
+               <hi>Gal.</hi> 3.27. All ye that are baptised into Christ, have put on Christ.</p>
+            <p>
+               <hi>Quest.</hi> Did not the Pharisees and expounders of the Law despise and reject, the counsel of God against themselves, not being baptized of him, namely of <hi>John, Luk.</hi> 7.30.</p>
+            <p>
+               <hi>Answ. John</hi> 3.5. Except a man be born of water and of the spirit he cannot, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> If (for want of a Bason) Believers went down into the water to be sprinkled, or rather to do somthing in the water which could not be done out of the River, not with<g ref="char:EOLhyphen"/>out much water?</p>
+            <p>
+               <hi>Qu.</hi> Doth Scripture mention any water-Baptisme but one? <hi>Ephes.</hi> 4.5. There is one Lord, one Faith, one Bap<g ref="char:EOLhyphen"/>tisme.</p>
+            <p>Is there one way for Heathens, and another for Christi<g ref="char:EOLhyphen"/>ans.</p>
+            <p>
+               <hi>Q.</hi> How many days may a child bee kept unbaptised without sin? Who can tell? <hi>Ergo.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How can any certainly know (so as to satisfie con<g ref="char:EOLhyphen"/>science) that they were baptised in their Infancy? in cir<g ref="char:EOLhyphen"/>cumcision was a mark in the flesh, else to bee cut off from God's people.</p>
+            <p>Q. Is foederall holiness with Gentiles, nationall as with the Jews?</p>
+            <p>Q. Where is any command from God for Infants-Bap<g ref="char:EOLhyphen"/>tisme? Shew <hi>chap.</hi> and <hi>ver.</hi>
+            </p>
+            <p>Q. Where is any example in Scripture of an Infant bap<g ref="char:EOLhyphen"/>tised, either by <hi>John</hi> (the Dipper, <hi>Joannes de douper</hi> in
+<pb facs="tcp:168590:3"/>dutch) or of the Christian Churches, as <hi>Rome, Corinth, Ga<g ref="char:EOLhyphen"/>lat. &amp;c.</hi> or the seven Churches in <hi>Asia, Rev.</hi> 1.4.</p>
+            <p>Q. Who invented baptising of bells? as you may read in the Book of <hi>Martyrs, Fox.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Who commanded women-Midwives to baptise children?</p>
+            <p>
+               <hi>Quest.</hi> Who brought in the Crosse in Baptisme, (which formerly troubled many tender cousciences?</p>
+            <p>
+               <hi>Quest.</hi> Who invented Godfathers and Godmothers (to answer that which the baptised should answer?)</p>
+            <p>
+               <hi>Quest.</hi> Who brought up Wine and Sweetmeats at Christ<g ref="char:EOLhyphen"/>nings?</p>
+            <p>
+               <hi>Quest.</hi> Who brought baptisme from the River (the place of Baptisme) into the Temple, from <hi>Jordan</hi> into the Sanctuary, to the Font?</p>
+            <p>
+               <hi>Quest.</hi> Were the old Church-Fonts Fountains? why were they put in the Latine name, and not in the English, <hi>Zach.</hi> 13.1.</p>
+            <p>
+               <hi>Quest.</hi> Why were Fonts made so deep and wide, and in some places a chimny in the Steeple?</p>
+            <p>
+               <hi>Quest.</hi> Why are Infants in the Old Service-book com<g ref="char:EOLhyphen"/>manded to be dipped, before any mention of sprinkling or powring water upon it, which was onely permitted in case of the childs weakness?</p>
+            <p>
+               <hi>Q.</hi> Why doth the old Church Catechisme say, that Faith and Repentance is required of persons to be baptised?</p>
+            <p>
+               <hi>Q.</hi> How doth it also say (in effect) That Infants believe and repent by Godfathers and Godmothers their Sureties, can you believe it?</p>
+            <p>Q. Of the Minister or Priest, Wilt thou bee baptized in this Faith?</p>
+            <p>
+               <hi>Ans.</hi> That is my desire.</p>
+            <p>
+               <hi>Reply</hi> Meer falshood, for they desired not baptisme themselves, but Christendome for the babe.</p>
+            <pb facs="tcp:168590:3"/>
+            <p>
+               <hi>Q.</hi> Is it a truth that Infants baptised are regenerate and justined made Christians?</p>
+            <p>
+               <hi>Q.</hi> Were not they much mistaken that gave Infants the Bread and Wine, for some hundred years together, so Dr. <hi>Hill</hi> sheweth in his Sermon, on <hi>Jer.</hi> 6.16.</p>
+            <p>
+               <hi>Q.</hi> Should we not endeavour the peace of the Church?</p>
+            <p>
+               <list>
+                  <head>Scripture</head>
+                  <item>Pray for the peace of <hi>Jerusalem,</hi>
+                  </item>
+                  <item>Keep the unity of the Spirit in the bond <hi>&amp;c.</hi>
+                  </item>
+                  <item>How pleasant for spiritualbrethren todwel <hi>&amp;c.</hi>
+                  </item>
+                  <item>Follow peace and holiness without <hi>&amp;c.</hi>
+                  </item>
+                  <item>Peace be upon the Israel of God.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Ans.</hi> Not of the false, but the peace of the true Churches of Christ consisting of precious visible Saints in Gospel-order, rightly constituted.</p>
+            <p>
+               <hi>Act</hi> 2.41. Added to the Church by Baptism.</p>
+            <p>(Taking a house in a Parish is not sufficient to make them of the Church.) Godliness is the best ground of Church-Communion; Baptisme the first publick Church Ordi<g ref="char:EOLhyphen"/>nance the Godly are to seek after, <hi>Act.</hi> 22.16. why tarriest thou? Arise, <hi>&amp;c.</hi>
+            </p>
+            <p>1 <hi>Cor.</hi> 12.13. By one spirit we are all baptized into one body.</p>
+            <p>The Church is the ground and Pillar of Truth, 1 <hi>Pet.</hi> 3 15.</p>
+            <p>True Baptisme and a Church-way,</p>
+            <p>The way to Heaven, may I say,</p>
+            <p>
+               <hi>Via Regni non causa regnandi.</hi>
+            </p>
+            <p>The nearer the true Church the nearer to God.</p>
+            <p>
+               <hi>Extra Ecclesiam non est salus.</hi>
+            </p>
+            <p>
+               <hi>Act.</hi> 2.4. The Lord added to the Church day by day such as should be saved.</p>
+            <q>
+               <p>1 <hi>Thes</hi> 1.1. The Church in God,</p>
+               <p>1 <hi>joh.</hi> 5.19. The World in the Devill, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the evill one.</p>
+            </q>
+            <pb facs="tcp:168590:4"/>
+            <p>
+               <hi>Q.</hi> Doth not baptising all Infants (of wicked Parents Bastards, <hi>&amp;c.</hi>) make the world the Church, whereas Dip, ping believers gather a visible Church out of the world?</p>
+            <p>
+               <hi>Q.</hi> What is the difference betwixt the Churches called Independent and Anabaptist but Infants sprinkling? As M. <hi>Kaye</hi> observes in his Book of Baptisme without Bason.</p>
+            <p>Q. Is Dipping believers the Wil worship, Idolatry, Su<g ref="char:EOLhyphen"/>perstition, or Ordinance of Antichrist?</p>
+            <p>Q. It being but an externall thing, why should it cause such difference amongst Christians?</p>
+            <div type="section">
+               <head>Church-way.</head>
+               <q>
+                  <hi>Ezek.</hi> 43.11. And if they be ashamed of all that they have done, shew them the form of the house, <hi>&amp;c.</hi>
+               </q>
+               <p>Say something of a Church-way.</p>
+               <p>
+                  <hi>A.</hi> Be pleased to peruse a letter sent to an honest-friend a Minister without the Sacrament. <hi>viz.</hi>
+               </p>
+               <p>It is in my heart (if I had your health and gift of teach<g ref="char:EOLhyphen"/>ing) to assay to join my self to the Disciples, <hi>Act.</hi> 9.26. When <hi>Saul</hi> was come to Jerusalem, he assayed to join himself to the Disciples. And 2 <hi>Cor.</hi> 8.5. gave their own selves first to the Lord, and after to us by the will of God.</p>
+               <p>I would join for gathering a Church, separate between the precious and the vile, <hi>Jer.</hi> 15.19. If thou take away the precious from the vile, thou shalt be according to my word, as my mouth.</p>
+               <p>The precious are Saints by calling, the vile are ignorant, scandalous profane, civill onely, carnall, all unconverted.</p>
+               <p>Preach up a Church-way, take Declarations, profession of Faith and repentance, of their conversion, regeneration, the work of God's grace in them.</p>
+               <p>How, when, and what God hath done for their souls, <hi>Psal</hi> 66.16. Come and hear all yee that fear God, and I will declare (tell you) what he hath done for my soul also,
+<pb facs="tcp:168590:4"/>
+                  <hi>Psal.</hi> 107.2. Receive the weak in Faith, <hi>Rom.</hi> 14.1. Him that is weak in the Faith receive unto you. Some believers are weak and they must be received, if <hi>Aliquid Christi,</hi> any thing of Christ, <hi>minimum quod sic</hi> be perceived in them. <hi>Act.</hi> 5.14. Believers were added to the Lord, multitudes both of men and women; Take in and cast out, commu<g ref="char:EOLhyphen"/>nicate and excommunicate, set up Christ's easie yoke of Discipline; Christ's Church Government, owning the power of the Keys given to the Church, Christ's Scepter, knowing our priviledges in a Church rightly constituted in Gospel-Order, and the true fellowship of the Gospell, the more excellent way.</p>
+               <p>Living in the constant frequent practice of all Church-Ordinances whereby we obey and injoy God, strengthen our Faith, and edifie one another.</p>
+               <p>
+                  <hi>Psal.</hi> 92.13. Such as are planted in the house of the Lord shall flourish in the Courts of our God, they shall still bring forth fruit in their age, they shall be fat and flourishing, <hi>Psal.</hi> 87.2. God loveth the Gates of Zion better then all the dwellings of <hi>Jacob.</hi>
+               </p>
+               <p>Angels are in the Churches and God's speciall presence and blessing, <hi>Cant.</hi> 7.12. there will I give thee my loves. Place his name there.</p>
+               <p>In the Church are Elders to visit the sick (if sent for) <hi>Jim.</hi> 5.14. Is any sick among you (let him take care of his soul, before the will and the Doctors) let him call for the Elders of the Church, and let them pray for him, <hi>Act.</hi> 14.23. They ordained them Elders by Electionin every Church, teaching, ruling Elders, 1 <hi>Tim.</hi> 5.17. Let the Elders that rule well, be counted worthy of double honour, especially they who labour in the Word and Doctrine.</p>
+               <p>Also Deacons, chosen men of good report, full of the gifts and graces of the Holy Ghost and of wisedom, <hi>Act.</hi> 6.3. (able to do service to the Church in case of Pastors sickness
+<pb facs="tcp:168590:5"/>or absence) holding the mystery of Faith in a pure consci<g ref="char:EOLhyphen"/>ence, 1 <hi>Tim.</hi> 3.9.</p>
+               <p>The Lord's Treasurers to receive the benevolence of the Church, and to supply Christ's poor (who are rich in Faith) And to prepare the Table of the Lord, not spreading Christ's Table for the wicked, strange fire (pearls to swine, childrens bread to Dogs) but for Disciples, Believers, Con<g ref="char:EOLhyphen"/>verts, Saints, holy Brethren, and holy Sisters, who have fellowship with the Father and with his Son, 1 <hi>John</hi> 1.3. Sion-born.</p>
+               <p>A Godly Minister in the Bishops times said, if it were not for the command of Governours his arm should rot be<g ref="char:EOLhyphen"/>fore he would give the Sacrament to the wicked or to the profane.</p>
+               <p>Also helps in Government, to keep the Book of Church-members names, and where they live <hi>&amp;c.</hi> watching over one another to provoke to love and good works, <hi>Heb.</hi> 10.24. Our need requires a Church-way.</p>
+               <p>
+                  <hi>Object.</hi> Perhaps Magistrates will not suffer it.</p>
+               <p>
+                  <hi>Answ. Heb.</hi> 3.13. Who is it that will harm you, if yee follow that which is good? Rulers should be nursing Fa<g ref="char:EOLhyphen"/>thers, a praise to them that do well, ruling in the fear of God.</p>
+               <p>What if Saints should be Martyrs? suffering for Righ<g ref="char:EOLhyphen"/>teousness sake, hath reward in Heaven, but who now hin<g ref="char:EOLhyphen"/>ders worshipping God in our own (Scripture) way in peace in our own Land; Blessed be God for Rulers, we will bless them out of Zion.</p>
+               <p>
+                  <hi>Object.</hi> Wheat and Tares must grow together.</p>
+               <p>
+                  <hi>Answ.</hi> In the Field of the World, not in the Church; if appear Tares to be weeded out by excommunication, else that were against our Saviour Christ's own rule, <hi>Dic Eccle<g ref="char:EOLhyphen"/>siae, Mat.</hi> 18.17. Tell it unto the Church, and if he refuse to hear the Church, let him be unto thee as a Heathen man
+<pb facs="tcp:168590:5"/>and a Publican; if there be no Church, how can we tell it unto the Church.</p>
+               <p>Spoken to the Church it felfe, put away from among your selves the wicked person, 1 <hi>Cor.</hi> 5.13.</p>
+               <p>The Church of <hi>Ephesus</hi> could not bear with them that were evill, <hi>Rev.</hi> 2.2. <hi>David</hi> (a type of Christ) saith, <hi>Psal.</hi> 101.7. He that worketh deceit shall not dwell within my house; Not suffer barren trees in the Vineyard.</p>
+               <p>
+                  <hi>Exod.</hi> 12.48. The uncircumcised might not eat the Passeover. Is it not a sin to receive with the known sinner? a neglect of our duty being commanded to reprove him before witnesses, and in case of non-reformation to ac<g ref="char:EOLhyphen"/>quaint the Church, <hi>Mat.</hi> 18.16.</p>
+               <p>
+                  <hi>Object.</hi> It makes division and separation.</p>
+               <p>
+                  <hi>Answ. Psal.</hi> 50.5. Gather my Saints together unto me, those that make a Covenant with me with sacrifice.</p>
+               <p>Gathered together in my name, <hi>Mat.</hi> 18.20.</p>
+               <p>There is a bad and a good separation; Christ was sepe<g ref="char:EOLhyphen"/>rate from sinners, 2 <hi>Cor.</hi> 6.17. Come out from among them, and be ye separate saith the Lord; touch no unclean thing and I will receive you, and I will be a Father unto you, and ye shall be my sons and daughters saith the Lord Almigh<g ref="char:EOLhyphen"/>ty, <hi>Rev.</hi> 18.4. Come out of her my people: Ants get to<g ref="char:EOLhyphen"/>gether in the Mole-hill, it is naturall for Sheep to flock to<g ref="char:EOLhyphen"/>gether, not with Swine.</p>
+               <p>
+                  <hi>Object.</hi> It is a new way.</p>
+               <p>
+                  <hi>Answ.</hi> As old as Christ's time and the Apostles, no new thing under the Sun.</p>
+               <p>
+                  <hi>Object.</hi> It is hard to know who are godly, because gifts are like grace, some are close Hypocrites, and some believe for a time, &amp;c.</p>
+               <p>
+                  <hi>Answer</hi> The Judgement of verity belongs to God alone, the heart-searcher, he is the Shepherd who will separate Sheep and Goats hereafter (whereof this is a shadow or
+<pb facs="tcp:168590:6"/>type as I may say.) The Judgment of charity belongs to the Saints, to whom is given discerning of spirits, because <hi>vi<g ref="char:EOLhyphen"/>dentur &amp; non sunt,</hi> some seem to be and are not; there must bee the more care taken in admitting Church-mem<g ref="char:EOLhyphen"/>bers, walking a while together; searching reports, and in<g ref="char:EOLhyphen"/>quiring (among professors) of their life and conversation, if it give not profession the lye.</p>
+               <p>
+                  <hi>Object.</hi> Them of the Church have their failings.</p>
+               <p>
+                  <hi>Answ.</hi> Was not <hi>Judas</hi> among twelve? In the first Chri<g ref="char:EOLhyphen"/>stian Church, <hi>Ananias</hi> and <hi>Saphira, Simon Magus,</hi> gross things in the Church of <hi>Corinth:</hi> but in the Church is a remedy against sin. If not hear, the Church will hear, and proceed to admonish and act, bind in Heaven. There is no such help against wickedness out of the Church, <hi>Mat.</hi> 18. <hi>ver.</hi> 18.</p>
+               <p>
+                  <hi>Object.</hi> Some Church-members fall off.</p>
+               <p>
+                  <hi>Answ.</hi> They went cut from us because they were not of us, <hi>Jude</hi> 19. There are they that separate themselves; sen<g ref="char:EOLhyphen"/>suall, not having the spirit, <hi>Heb</hi> 10.25. not the forsaking the fellowship that we have among our selves, as the man<g ref="char:EOLhyphen"/>ner of some is.</p>
+               <p>
+                  <hi>Object.</hi> Let a man examine himself, and so let him eat.</p>
+               <p>
+                  <hi>Answ.</hi> It is his duty from Sacrament to Sacrament to search about his knowledge, faith, repentance, charity, spi<g ref="char:EOLhyphen"/>rituall appetite, growth in grace; but it is spoken to such as were in a Church-state, and therefore first approved of, (not necessary to examine with whom thou dost commu<g ref="char:EOLhyphen"/>nicate.)</p>
+               <p>
+                  <hi>Object.</hi> Is not the Steeple house the Church?</p>
+               <p>If covered with gold within and without, not the glory of the Church, not the fair building but the graces of the people, and the pure Ordinances make one Church better then another.</p>
+               <p>There is the Church-house, the Church-yard, and
+<pb facs="tcp:168590:6"/>Church-people, 1 <hi>Pet.</hi> 2.5. Ye also as living stones, are built up a spirituall house, <hi>&amp;c.</hi> The materiall house is the Pub<g ref="char:EOLhyphen"/>lick meeting place appointed by the Church, having power to order time and place, for Doctrine, Worship, Discipline, for Word and Sacraments, where the Word may be rightly taught, and the Sacraments duly administred, 1 <hi>Cor.</hi> 14.40.</p>
+               <p>If you want bread will you not seek out?</p>
+               <p>
+                  <hi>Panis</hi> Bread
+<list>
+                     <item>
+                        <hi>Domini,</hi> of the Lord,</item>
+                     <item>
+                        <hi>Dominus,</hi> the Lord,</item>
+                  </list>
+               </p>
+               <p>bread the Lord at our Fathers Table, a sealing Ordinance. The Spirit of Promise clap to the Seal.</p>
+               <p>
+                  <hi>Mat.</hi> 24.28. Wheresoever the carcass is, there will the Eagles be gathered together. (Who discerne the Lord's body.</p>
+               <p>
+                  <hi>Hoc est Corpus meum,</hi> This is my Body.</p>
+               <p>
+                  <hi>Act.</hi> 2.42. And they continued stedfastly in the Apostles doctrine, and fellowship, and breaking of bread and pray<g ref="char:EOLhyphen"/>ers.</p>
+               <p>1 <hi>Cor.</hi> 10.16. The Cup of blessing which we bless, is it not the Communion of the Blood of Christ? The Bread which we break is it not the Communion of the body of Christ.</p>
+               <p>
+                  <hi>Verse</hi> 17. For we being many, are one bread, and one body: for we are all partakers of that one Bread.</p>
+               <p>1 <hi>Cor.</hi> 11.26. This do in remembrance of me, for as often as ye shall eat of this Bread, and drink of this Cup, ye shew the Lord's death till he come. Come Lord Jesus.</p>
+               <p>Church-porch, <hi>Superliminare</hi> 1633. <hi>Harbert.</hi>
+               </p>
+               <q>
+                  <l>Avoid profaneness, come not here,</l>
+                  <l>Nothing but holy, pure; and clear,</l>
+                  <l>Or that which groweth to be so,</l>
+                  <l>May at his perill further go.</l>
+               </q>
+               <pb facs="tcp:168590:7"/>
+               <p>
+                  <hi>Object.</hi> Is not this like <hi>Isa.</hi> 65.5. which say, stand by thy self, come not neer to me, for I am holier then thou?</p>
+               <p>
+                  <hi>Answ.</hi> Nor like <hi>Num.</hi> 16.3, ye take too much upon you, seeing all the Congregations are holy every one of them. We are all alike by nature, if a change be in any, it is the Lord makes the difference.</p>
+               <p>The Saints that go in Christ's way are little in their own eyes, knowing all is by free grace, meer undeserved mercy, therefore in humbleness of mind, each esteeming others better then themselves, <hi>Phil.</hi> 2.3.</p>
+               <p>Only apprehending danger in the polluting God's Ordi<g ref="char:EOLhyphen"/>nances, coming together not for the better but the worse, 1 <hi>Cor.</hi> 11.17.</p>
+               <p>After receiving the Sop the Devill entred into <hi>Judas.</hi>
+               </p>
+               <p>
+                  <hi>Verse</hi> 27. Whosoever shall eat this Bread, and drink this Cup of the Lord unworthily, shal be guilty of the Body and Blood of the Lord.</p>
+               <p>
+                  <hi>Verse.</hi> 29. Eateth and drinketh damnation (judgment) to himself.</p>
+               <p>
+                  <hi>Mat.</hi> 22 12. Friend, how camest thou hither, not having a Wedding-Garment.</p>
+               <p>But if we walk in the light, as he is in the light, we have fellowship (communion) one with another, and the blood of Jesus-Christ his Son cleanseth us from all sin, 1 <hi>John</hi> 1. <hi>verse</hi> 7.</p>
+               <p>
+                  <hi>Mat.</hi> 16.18. I will build my Church and the gates of Hell shall not prevail against it.</p>
+               <p>Learn the form of God's house from himself.</p>
+            </div>
+            <div type="section">
+               <head>Government, Church-work.</head>
+               <p>
+                  <hi>Heb.</hi> 13.17. Obey them that have the rule over you, and submit your selves, for they watch for your Souls, as they that must give an account, that they may do it with joy, and not with grief, for it is unprofitable for you.</p>
+               <p>1 <hi>Cor.</hi> 4.21. What will ye? shall <hi>I</hi> come unto you with
+<pb facs="tcp:168590:7"/>a rod, or in love, and in the Spirit of meekness?</p>
+               <p>1 <hi>Cor.</hi> 10.6. Having in a readiness to revenge all diso<g ref="char:EOLhyphen"/>bedience.</p>
+               <p>
+                  <hi>Verse</hi> 8. For though I should boast somewhat more of our authority (which the Lord hath given us for edificati<g ref="char:EOLhyphen"/>on and not for your destruction) I should not bee asha<g ref="char:EOLhyphen"/>med.</p>
+               <p>2 <hi>Cor.</hi> 13.10. Therefore I write these things being ab<g ref="char:EOLhyphen"/>sent, least being present I should use sharpness, according to the power which the Lord hath given me to edification and not to destruction.</p>
+               <p>2 <hi>Thes.</hi> 3.14. And if any man obey not our word by this Epistle, note that man, and have no company with him, that he may be ashamed.</p>
+               <p>In the Ark the Ecclesiasticall rod.</p>
+               <p>2 <hi>John</hi> 14. Christ purged the Temple with a whip of small cords.</p>
+               <p>
+                  <hi>Verse</hi> 17. The zeal of thy house hath eaten me up.</p>
+               <p>1 <hi>Tim.</hi> 1.20. Of whom is <hi>Hymineus</hi> and <hi>Alexander?</hi> whom have I delivered unto Satan, that they might learn not to blaspheme?</p>
+               <p>
+                  <hi>Titus</hi> 3.10. Reject him that is a Heretick, after once or twice admonition.</p>
+               <p>1 <hi>Cor.</hi> 16.22. If any man love not the Lord Jesus Christ let him be <hi>Anathema Maranatha,</hi> accursed till Christ come, so cast out as to bee taken in no more (as some appre<g ref="char:EOLhyphen"/>hend)</p>
+               <p>1 <hi>Cor.</hi> 5.4, In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ.</p>
+               <p>
+                  <hi>Verse</hi> 5. To deliver such an one unto Satan for the de<g ref="char:EOLhyphen"/>struction of the Flesh, that the spirit may be saved in the day of our Lord Jesus.</p>
+               <p>
+                  <hi>Verse</hi> 13. Therefore put away from among your selves that wicked person.</p>
+               <pb facs="tcp:168590:8"/>
+               <p>He that will not hear one or two may be perswaded by the Church, <hi>Mat.</hi> 18.17. If not hear the Church let him be as a heathen man.</p>
+               <p>Notwithstanding his Baptisme.</p>
+               <p>If not live Sacramentall lives.</p>
+            </div>
+            <div type="section">
+               <head>Of Seeking the Lord.</head>
+               <p>1 <hi>Chron.</hi> 21.9. If thou seek him, he will be found of thee.</p>
+               <p>
+                  <hi>Mat.</hi> 7.7. Ask and it shall be given you, seek and yee shall find, knock, and it shall be opened unto you.</p>
+               <p>
+                  <hi>Mat.</hi> 6.33. Seek ye first the Kingdom of God and his righteousness, and all these things shall be added unto you.</p>
+               <p>
+                  <hi>Psal.</hi> 69.32. Your heart shall live that seek God.</p>
+               <p>Live for ever, <hi>Psal.</hi> 22.26.</p>
+               <p>
+                  <hi>Psal.</hi> 40.16. Let all those that seek thee, rejoyce and bee glad in thee.</p>
+               <p>
+                  <hi>Psal.</hi> 34.10. Thou Lord hast not forsaken, never failed them that seek thee.</p>
+               <p>
+                  <hi>Object. Prov.</hi> 1.28. They shall seek me early, but shal not find me.</p>
+               <p>
+                  <hi>Answ.</hi> That is,</p>
+               <p n="1">1. If not seek in time before the day of grace be past, or while the day of grace doth last, <hi>Isa.</hi> 55.6. Seek ye the Lord while he may be found, and call upon him while he is near.</p>
+               <p n="2">2. If not seek in Faith, <hi>Heb.</hi> 11.6. He that cometh to God must believe that God is, and that he is a rewarder of them that diligently seek him.</p>
+               <p>
+                  <hi>Rom.</hi> 9.33. They could not attain unto the Law of righ<g ref="char:EOLhyphen"/>teousness because they sought it not by Faith.</p>
+               <p n="3">3. If not seek uprightly, <hi>Psal.</hi> 119.2. Blessed are they that seek him with their whole heart.</p>
+               <pb facs="tcp:168590:8"/>
+               <p>
+                  <hi>Deut.</hi> 4.29. Thou shalt find the Lord thy God, if thou seek him with all thy heart and with all thy soul.</p>
+               <p n="4">4. If not seek diligently, <hi>Luke</hi> 13.24. strive to enter in at the strait gate for many I say unto you shall seek to enter in and shall not be able.</p>
+               <p>
+                  <hi>Proverbs</hi> 2.4. If thou seekest as for silver, and search<g ref="char:EOLhyphen"/>est for wisedom, as for hid treasures, then shalt thou un<g ref="char:EOLhyphen"/>derstand the fear of the Lord, and find the knowledge of God.</p>
+               <p n="5">5. If not seek in humility, humbling the soul by fasting and prayer,</p>
+               <p>
+                  <hi>Ezra.</hi> 8.21. Then he proclaimed a fast, that we might afflict our selves before our God, to seek of him a right way, <hi>&amp;c.</hi>
+               </p>
+               <p n="6">6. If not seek in a right manner, as onely for fear of punishment, <hi>Hosea.</hi> 5.15. In their afflictions they will seek me early.</p>
+               <p n="7">7. If not seek chiefly for grace and glory, <hi>Psal.</hi> 84. For the Lord God is a Sun and a Shield, the Lord will give grace and glory, <hi>&amp;c.</hi>
+               </p>
+               <p>For grace, as 1 <hi>Chron.</hi> 16.11. seek the Lord and his strength, seek his face continually.</p>
+               <p>In obedience to God, <hi>Psal.</hi> 27.8. When thou saidst seek ye my face, my heart said unto thee: Thy face Lord will I seek. For mercy, the sure mercies of <hi>David,</hi> pardon, reconciliation, hide not thy face from mee.</p>
+               <p>
+                  <hi>Zeph.</hi> 2.3. Seek righteousnesse, seek meekness.</p>
+               <p>
+                  <hi>Psal.</hi> 119.45. I will walk at liberty for I seek thy precepts.</p>
+               <p>For Glory, <hi>Heb.</hi> 13.14. Here we have no continuing City, but we seek one to come.</p>
+               <p>(New Jerusalem) in a way of weldoing, <hi>Rom.</hi> 2.7.
+<pb facs="tcp:168590:9"/>who by patience in well doing, seek for glory and honour and immortality eternall life.</p>
+               <p>A soul is encouraged to seek God.</p>
+               <p n="1">1. Because Satan seeks whom he may devour, 1 <hi>Pet.</hi> 5.8. your adversary the Devill as a roaring Lyon walketh a<g ref="char:EOLhyphen"/>bout seeking whom he may devour.</p>
+               <p n="2">2. Because Christ came to seek and save that which was lost, <hi>Luke</hi> 19 10. Christ seeks the lost sheep, <hi>Luke</hi> 15.4.</p>
+               <p n="3">3. Because God is so gracious and mercifull, giving a heart to seek him, <hi>Rom.</hi> 10.20. I was found of them that sought me not.</p>
+               <p>
+                  <hi>John</hi> 4.23. The Father seeketh worshippers in Spirit and in truth.</p>
+               <p>
+                  <hi>Object.</hi> The Godly may seek and not find.</p>
+               <p>
+                  <hi>Cant.</hi> 3.1. <hi>By</hi> night in my bed I sought him whom my soul loved, I sought him but I found him not.</p>
+               <p>
+                  <hi>Answ.</hi> The Saints have found in respect of grace, though sometimes at a loss in respect of comfort.</p>
+               <p>God may hide himself for a while, to have us continue seeking, and to rejoyce in him the more when he is found of us, as the spouse did, <hi>Verse</hi> 2. I will rise therefore and seek him, and she saith <hi>verse</hi> 3. when I had passed a little from the watchmen, then I found him whom my soul lo<g ref="char:EOLhyphen"/>ved, I held him and would not let him go, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Isa.</hi> 45.19. I said not in vain unto the house of Jacob seek ye me, I the Lord speak righteousness and declare righteous things.</p>
+               <p>
+                  <hi>Col.</hi> 3.1. If yee then bee risen with Christ seek those things which are above, where Christ sitteth at the right hand of God.</p>
+               <p>It is the property of such as are spiritually risen with Christ, to seek things above. Spirituall things are things above.</p>
+               <p n="1">1. Because they come down from above, they have
+<pb facs="tcp:168590:9"/>their originall from God, <hi>Jam.</hi> 1.17. every good and per<g ref="char:EOLhyphen"/>fect gift is from above, and cometh down from the Fa<g ref="char:EOLhyphen"/>ther of lights, from him that is the fountain and Author of all goodness.</p>
+               <p>Spirituall things are above nature (the light of nature) above the thoughts and desires of carnall and naturall men. Flesh and blood doth not reveal such things unto us. <hi>Nosce te ipsum de coelo descendit.</hi>
+               </p>
+               <p n="2">2. They are called things above, because they tend to things above, <hi>Sursum corda,</hi> they draw a mans mind from earth to heaven, when a soul is possessed of spirituall things, it becometh heavenly minded; so that although a Christian must necessarily have some thoughts, and care for this world, yet the bent and frame of his heart stand another way, his thoughts run more towards God, Christ, graces of the spirit, the glorified Saints, and Angels and the joyes of heaven which are above, then after the creatures (which perish with the using) even as it is with a bird, it may bee it cometh down to the earth for food and sustenance, but it delights most to flye above. A Christian is like a wheel, whereof the least part is upon the earth, if it be down it is presently up again, and thus it is with them that are spirituall, they neglect earthly things to aspire to heaven and hea<g ref="char:EOLhyphen"/>venly things.</p>
+               <p>
+                  <hi>Phil.</hi> 3.20. Our conversation is in heaven, this is not to be understood that the Apostle was then glorified, but that his desires and endeavours went heaven ward, that his actions did tend thither, <hi>Romans</hi> 8.5. They that are after the spirit, savour the things of the spirit, <hi>Verse</hi> 6. to be earthly minded is death, but to be spiritually mind<g ref="char:EOLhyphen"/>ed is life and peace.</p>
+               <p n="3">3. Spirituall things are called things above, be<g ref="char:EOLhyphen"/>cause they are fully injoyed in heaven above, there
+<pb facs="tcp:168590:10"/>is the full fruition of them, glory is the consummati<g ref="char:EOLhyphen"/>on of grace, as grace is the first fruits and inchoation of glory.</p>
+            </div>
+            <div type="section">
+               <head>Seek Things above.</head>
+               <p>True Seekers are</p>
+               <p n="1">1 Sensible of their loss; our spirituall losses in <hi>Adam</hi> are great and grievous, God's favour and Image,</p>
+               <p>
+                  <hi>Rom.</hi> 3. <hi>ver.</hi> 23. All have sinned and come short of the Glory of God, we are without spirituall things till we seek them.</p>
+               <p n="2">2. Seekers desire to find. Give me Christ or else I dye, it is no living for me without Christ, nor no dying for me without Christ; I have no fence for Hell, I cannot in<g ref="char:EOLhyphen"/>dure torments invented by mortall men, How shall I bee able to grapple with the fulness of thy wrath, where<g ref="char:EOLhyphen"/>with thou hast threatned to punish sinne to everlast<g ref="char:EOLhyphen"/>ing?</p>
+               <p>Give me Christ the chiefest of ten thousand, <hi>Cant.</hi> 5. <hi>ver.</hi> 10. (ten thousand persons, Angels, Worlds,) white and ruddy, white in his innocency and purity, ruddy in his satisfactory sufferings, both to make up a sinners righte<g ref="char:EOLhyphen"/>ousness, <hi>Jere.</hi> 23.6. The Lord our Righteousness, <hi>Isa.</hi> 45.25. Surely shal one say in the Lord have I righteousness.</p>
+               <p>Here is a pearl have it you shall.</p>
+               <p>If to have it, you part with all.</p>
+               <p>True Seekers set their affections on things above, <hi>Colos.</hi> 3.2 So lesirous to find as to be willing to part with all for the pearl of great price.</p>
+               <p>
+                  <hi>Matth.</hi> 13.45. The Kingdom of Heaven is like a Mer<g ref="char:EOLhyphen"/>chant man seeking goodly pearls.</p>
+               <p>After worldly things do the Gentiles seek, <hi>Mat.</hi> 6.32.</p>
+               <p>
+                  <hi>Prov.</hi> 8.17. I love them that love me, and those that
+<pb facs="tcp:168590:10"/>seek me early shall find me.</p>
+               <p>
+                  <hi>Verse</hi> 35. Who so findeth me, findeth life, and shall ob<g ref="char:EOLhyphen"/>tain favour of the Lord.</p>
+               <p>
+                  <hi>Psal.</hi> 27.4. One thing have I desired of the Lord, and that will I seek after, that I may dwell in the house of the Lord all the days of my life, to behold the beau<g ref="char:EOLhyphen"/>ty of the Lord, and to inquire in his Temple.</p>
+               <p>Christ was found in the Temple, <hi>Luke</hi> 2.46.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <head>Godly Verses added.</head>
+                           <lg>
+                              <l>
+                                 <hi>CHrist's life must be a rule to thee,</hi>
+                              </l>
+                              <l>
+                                 <hi>If Christ's Disciple thou wilt be.</hi>
+                              </l>
+                              <l>
+                                 <hi>Thou from thy self must first depart,</hi>
+                              </l>
+                              <l>
+                                 <hi>Before thou canst in Christ have part.</hi>
+                              </l>
+                              <l>
+                                 <hi>Remember that Christ Jesus shall,</hi>
+                              </l>
+                              <l>
+                                 <hi>Thoughts, words, deeds, to judgement call.</hi>
+                              </l>
+                              <l>
+                                 <hi>Thy Saviour on The Cross did choose,</hi>
+                              </l>
+                              <l>
+                                 <hi>To save thy lise his own to loose.</hi>
+                              </l>
+                              <l>
+                                 <hi>The grace of Jesus Christ to me,</hi>
+                              </l>
+                              <l>
+                                 <hi>Is the onely true felicity.</hi>
+                              </l>
+                              <l>
+                                 <hi>My hope on Christ is fixed sure,</hi>
+                              </l>
+                              <l>
+                                 <hi>Who wounded was, my wounds to cure.</hi>
+                              </l>
+                              <l>
+                                 <hi>My hope shall never be confounded,</hi>
+                              </l>
+                              <l>
+                                 <hi>Because my hope on Christ is grounded.</hi>
+                              </l>
+                              <l>
+                                 <hi>Fear not my soul, be not dismaid,</hi>
+                              </l>
+                              <l>
+                                 <hi>For Jesus Christ thy debts hath paid.</hi>
+                              </l>
+                              <l>
+                                 <hi>The death of Christ is life to thee,</hi>
+                              </l>
+                              <l>
+                                 <hi>If thou a Christian truly be.</hi>
+                              </l>
+                              <pb facs="tcp:168590:11"/>
+                              <l>
+                                 <hi>Christ is by marriage knit to thee,</hi>
+                              </l>
+                              <l>
+                                 <hi>If thou to him by Sanctity,</hi>
+                              </l>
+                              <l>
+                                 <hi>In Christ we are by God Elect,</hi>
+                              </l>
+                              <l>
+                                 <hi>Without Christ God doth all reject,</hi>
+                              </l>
+                              <l>
+                                 <hi>The Angels of the Lord protect</hi>
+                              </l>
+                              <l>
+                                 <hi>All those, that are the Lords Elect.</hi>
+                              </l>
+                              <l>
+                                 <hi>If thou be'st here a child of grace,</hi>
+                              </l>
+                              <l>
+                                 <hi>'Mongst Angells thou shalt have a place.</hi>
+                              </l>
+                              <l>
+                                 <hi>The pains of Hell do far extend,</hi>
+                              </l>
+                              <l>
+                                 <hi>Beyond all time, World without end.</hi>
+                              </l>
+                              <l>
+                                 <hi>If into Hell thou would'st not fall,</hi>
+                              </l>
+                              <l>
+                                 <hi>Be thereby thought continuall:</hi>
+                              </l>
+                              <l>
+                                 <hi>Love not the World, the World is vain,</hi>
+                              </l>
+                              <l>
+                                 <hi>But love those things that aye remain.</hi>
+                              </l>
+                              <l>
+                                 <hi>All earthly things tread under thee,</hi>
+                              </l>
+                              <l>
+                                 <hi>And let thy thoughts in heaven be.</hi>
+                              </l>
+                              <l>
+                                 <hi>'Twixt God and Conscience to and fro</hi>
+                              </l>
+                              <l>
+                                 <hi>My thoughts quotidianly shall go.</hi>
+                              </l>
+                              <l>
+                                 <hi>Mark well what conscience you have,</hi>
+                              </l>
+                              <l>
+                                 <hi>For conscience shall both damn and save.</hi>
+                              </l>
+                              <l>
+                                 <hi>Labour to keep a conscience pure,</hi>
+                              </l>
+                              <l>
+                                 <hi>When all things fail that will endure,</hi>
+                              </l>
+                              <l>
+                                 <hi>Greive not when friends and kinsfolk dye,</hi>
+                              </l>
+                              <l>
+                                 <hi>They gain by death eternity.</hi>
+                              </l>
+                              <l>
+                                 <hi>What is a buble? such is man,</hi>
+                              </l>
+                              <l>
+                                 <hi>Whose life in length is but a span.</hi>
+                              </l>
+                              <l>
+                                 <hi>Think every day to be thy last.</hi>
+                              </l>
+                              <l>
+                                 <hi>And when night comes thy life is past.</hi>
+                              </l>
+                              <l>
+                                 <hi>The Saints are Pilgrimes here below,</hi>
+                              </l>
+                              <l>
+                                 <hi>And towards their country (Heaven) go.</hi>
+                              </l>
+                              <l>
+                                 <hi>Our prayers pierce the starry skie,</hi>
+                              </l>
+                              <l>
+                                 <hi>And fetch down blessings from on high.</hi>
+                              </l>
+                              <l>
+                                 <hi>God sealeth by his holy spirit,</hi>
+                              </l>
+                              <l>
+                                 <hi>As many as shall life inherit.</hi>
+                              </l>
+                              <pb facs="tcp:168590:11"/>
+                              <l>
+                                 <hi>Be wise, do not too for inquire</hi>
+                              </l>
+                              <l>
+                                 <hi>To that thou rather should'st admire.</hi>
+                              </l>
+                              <l>
+                                 <hi>He that doth eat and drink by faith,</hi>
+                              </l>
+                              <l>
+                                 <hi>Christ flesh and blood salvation hath.</hi>
+                              </l>
+                              <l>
+                                 <hi>Faith is not faith, or if it be,</hi>
+                              </l>
+                              <l>
+                                 <hi>Faith is but dead wants charity</hi>
+                              </l>
+                              <l>
+                                 <hi>The wicked they go down to bell,</hi>
+                              </l>
+                              <l>
+                                 <hi>Although they think that all is well;</hi>
+                              </l>
+                              <l>
+                                 <hi>The Godly they to heaven go,</hi>
+                              </l>
+                              <l>
+                                 <hi>Although the wicked they say no.</hi>
+                              </l>
+                              <l>
+                                 <hi>In life they differ, in death we know</hi>
+                              </l>
+                              <l>
+                                 <hi>From Heaven above to hell below.</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <head>Walk by Rule.</head>
+                              <l>
+                                 <hi>LOrd Rule my heart, and rule my way,</hi>
+                              </l>
+                              <l>
+                                 <hi>That I by rule go night and day;</hi>
+                              </l>
+                              <l>
+                                 <hi>But leaden rules all other be,</hi>
+                              </l>
+                              <l>
+                                 <hi>A sure rule is thy werd to me.</hi>
+                              </l>
+                           </lg>
+                           <pb facs="tcp:168590:12"/>
+                           <lg>
+                              <head>Wit.</head>
+                              <l>Independants <hi>break the band</hi>
+                              </l>
+                              <l>
+                                 <hi>Of discipline; to none will stand,</hi>
+                              </l>
+                              <l>
+                                 <hi>But their own fancy, read the Text,</hi>
+                              </l>
+                              <l>
+                                 <hi>The Devill did so first, &amp;</hi> Adam <hi>next</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <head>Conscience.</head>
+                              <l>
+                                 <hi>The Saints that say Christ is mine,</hi>
+                              </l>
+                              <l>
+                                 <hi>Depend on Christ Church-discipline.</hi>
+                              </l>
+                              <l>
+                                 <hi>An easie yoak, very mild,</hi>
+                              </l>
+                              <l>
+                                 <hi>Seperating the precious from the vild.</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <head>Wit.</head>
+                              <l>
+                                 <hi>The</hi> Anabaptist <hi>fire spits</hi>
+                              </l>
+                              <l>
+                                 <hi>in zeal, but dipping cools the fits</hi>
+                              </l>
+                              <l>
+                                 <hi>a while; but yet he cries anon</hi>
+                              </l>
+                              <l>
+                                 <hi>'Gainst</hi> Paul <hi>more baptismes then one.</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <head>Conscience.</head>
+                              <l>
+                                 <hi>Baptismus Flaminis is true,</hi>
+                              </l>
+                              <l>
+                                 <hi>Fire-baptism. is true,</hi>
+                              </l>
+                              <l>
+                                 <hi>Baptismus Fluminis is not new.</hi>
+                              </l>
+                              <l>
+                                 <hi>River-baptisme. is not new.</hi>
+                              </l>
+                              <l>
+                                 <hi>Here is two, yet one in the text.</hi>
+                              </l>
+                              <l>
+                                 <hi>Though fire be first, and dipping next.</hi>
+                              </l>
+                           </lg>
+                           <pb facs="tcp:168590:12"/>
+                           <lg>
+                              <l>
+                                 <hi>The</hi> Brownist <hi>craving a new fashion,</hi>
+                              </l>
+                              <l>
+                                 <hi>Prayeth for thorow Reformation:</hi>
+                              </l>
+                              <l>
+                                 <hi>His broom to give the Pope a fall,</hi>
+                              </l>
+                              <l>
+                                 <hi>Sweeps down the windows Church and and all.</hi>
+                              </l>
+                           </lg>
+                           <lg>
+                              <head>Conscience.</head>
+                              <l>
+                                 <hi>Thorow Reformation pray</hi>
+                              </l>
+                              <l>
+                                 <hi>The</hi> Brownists, <hi>as Gods only way,</hi>
+                              </l>
+                              <l>
+                                 <hi>The</hi> Romes <hi>Church-state totter &amp; fall</hi>
+                              </l>
+                              <l>
+                                 <hi>Discipline, Idols, Church and all.</hi>
+                              </l>
+                           </lg>
+                           <p>Amen.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="section">
+               <pb facs="tcp:168590:13"/>
+               <head>Baptisect Families.</head>
+               <p>
+                  <hi>Chrispus</hi> believed on the Lord with all his house, <hi>Act.</hi> 18.8.</p>
+               <p>
+                  <hi>Cornelius</hi> and all his house feared God, <hi>Act.</hi> 10, 2.</p>
+               <p>The Jaylor believed in God with all his house, <hi>Act.</hi> 16.34.</p>
+               <p>The houshold of <hi>Stephanus</hi> addicted themselves to the Ministry of the Saints, 1 <hi>Cor.</hi> 16.15.</p>
+               <p>
+                  <hi>Lydia</hi> perhaps might not be married, or else barren or ancient, <hi>Act.</hi> 16.40. There is mention of brethren there,</p>
+               <p>They went out of the prison and entred into the house of <hi>Lydia,</hi> and when they had seen the brethren, they comfort<g ref="char:EOLhyphen"/>ed them and departed.</p>
+            </div>
+            <div type="section">
+               <head>The form of Baptisme.</head>
+               <p>See Dr. <hi>Denison</hi> how far he went in dark times, in his book of both Sacraments, Baptisme, and the Lord's Supper, <hi>p.</hi> 20.</p>
+               <p>Arise and be baptised and wash away thy sins: (he saith) the word baptising doth most properly signifie dipping over<g ref="char:EOLhyphen"/>head and ears, and indeed this was the most usuall manner of baptising in the primitive Church: especially in hotter Countries, and after this manner was Christ himself bapti<g ref="char:EOLhyphen"/>zed by <hi>John, Mat.</hi> 3.16. For there it is said of him, that when he was baptized he went out of the water; which doth im<g ref="char:EOLhyphen"/>ply that in his baptising hee went under the water, and thus all those that were baptized in rivers, they were not sprinkled but dipped.</p>
+               <p>Further he saith, we do not in any sort condemn the pra<g ref="char:EOLhyphen"/>ctise of dipping, but rather commend it, where it may bee without danger.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
